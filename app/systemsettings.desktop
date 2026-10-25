@@ -7,7 +7,7 @@ X-DocPath=systemsettings/index.html
 StartupNotify=true
 X-KDE-Shortcuts=Tools,Meta+I
 
-OnlyShowIn=KDE;
+OnlyShowIn=SonicDE;
 Actions=kcm-lookandfeel;kcm-users;kcm-screenlocker;kcm-powerdevilprofilesconfig;kcm-kscreen;
 
 GenericName=System Settings
@@ -138,7 +138,7 @@ Name[id]=System Settings
 Name[ie]=Parametres del sistema
 Name[is]=Kerfisstillingar
 Name[it]=Impostazioni di sistema
-Name[ja]=KDE システム設定
+Name[ja]=SonicDE システム設定
 Name[ka]=სისტემის მორგება
 Name[kk]=Жүйе параметрлері
 Name[km]=ការ​កំណត់​ប្រព័ន្ធ​

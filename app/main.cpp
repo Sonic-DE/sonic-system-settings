@@ -78,7 +78,7 @@ int main(int argc, char *argv[])
         if (qEnvironmentVariableIsSet("KDE_FULL_SESSION")) {
             aboutData.setDesktopFileName(QStringLiteral("systemsettings"));
         } else {
-            aboutData.setDesktopFileName(QStringLiteral("kdesystemsettings"));
+            aboutData.setDesktopFileName(QStringLiteral("sonicdesystemsettings"));
         }
 
         application.setWindowIcon(QIcon::fromTheme(QStringLiteral("preferences-system")));
