@@ -39,7 +39,7 @@ Rectangle {
                     implicitHeight: Kirigami.Units.iconSizes.medium
                 }
                 Kirigami.Heading {
-                    text: i18n("Plasma")
+                    text: i18n("SonicDE")
                     level: 1
                     font.weight: Font.Bold
                 }

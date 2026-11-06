@@ -178,8 +178,8 @@ msgstr "मेन्यू दिखाएँ"
 
 #: app/qml/IntroPage.qml:44
 #, kde-format
-msgid "Plasma"
-msgstr "प्लाज़्मा"
+msgid "SonicDE"
+msgstr "SonicDE"
 
 #: app/qml/SubCategoryPage.qml:74
 #, kde-format

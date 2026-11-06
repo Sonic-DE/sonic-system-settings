@@ -173,8 +173,8 @@ msgstr "تىزىملىكنى كۆرسەت"
 
 #: app/qml/IntroPage.qml:44
 #, kde-format
-msgid "Plasma"
-msgstr "Plasma"
+msgid "SonicDE"
+msgstr "SonicDE"
 
 #: app/qml/SubCategoryPage.qml:74
 #, kde-format

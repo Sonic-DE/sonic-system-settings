@@ -180,8 +180,8 @@ msgstr "הצגת תפריט"
 
 #: app/qml/IntroPage.qml:44
 #, kde-format
-msgid "Plasma"
-msgstr "פלזמה"
+msgid "SonicDE"
+msgstr "SonicDE"
 
 #: app/qml/SubCategoryPage.qml:74
 #, kde-format
