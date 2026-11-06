@@ -34,9 +34,7 @@ Rectangle {
             RowLayout {
                 Kirigami.Icon {
                     Layout.alignment: Qt.AlignHCenter
-                    source: Qt.resolvedUrl("qrc:/qt/qml/org/kde/systemsettings/plasma-logo.svg")
-                    color: Kirigami.Theme.textColor
-                    isMask: true
+                    source: Qt.resolvedUrl("qrc:/qt/qml/org/kde/systemsettings/sonic-workspace-logo.svg")
                     implicitWidth: Kirigami.Units.iconSizes.medium
                     implicitHeight: Kirigami.Units.iconSizes.medium
                 }

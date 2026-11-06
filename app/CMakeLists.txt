@@ -32,7 +32,7 @@ ecm_target_qml_sources(systemsettings SOURCES
     qml/SideBarItem.qml
     qml/SubCategoryPage.qml
     RESOURCES
-    images/plasma-logo.svg
+    images/sonic-workspace-logo.svg
 )
 
 target_compile_definitions(systemsettings PRIVATE -DPROJECT_VERSION="${PROJECT_VERSION}")
